@@ -8,4 +8,4 @@ Feature tensor files, model files and GIFs are saved to the working directory.
 Please make sure there is enough space.
 
 ## Compatibility
-This code is tested with only Python 3.7. CUDA support is strongly advised!
+This code is tested with Python 3.7. You should install compatible PyTorch version (CUDA strongly advised!).
